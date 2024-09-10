@@ -1,4 +1,4 @@
-<img alt="loading" weidth="1500" height="500" src="https://github.blog/wp-content/uploads/2023/01/1200x640.png?fit=1200%2C640">
+<img alt="loading" weidth="1500" height="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRosTglP3CIeFcAdQnq3rWNK4pPmI7kV39oHwDM5l27OjXMLoOSTCkReR9uBNi1rpZzXBo&usqp=CAU">
 <h1 align="center">👋, My name is Rushikesh Rathod</h1>
 
 # 💫 About Me:
