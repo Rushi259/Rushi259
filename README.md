@@ -1,4 +1,4 @@
-<img alt="loading" weidth="1500" height="500" src="https://res.cloudinary.com/practicaldev/image/fetch/s--PurSF_jJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/h9hrqci095gjctvz9pmz.gif">
+<img alt="loading" weidth="1500" height="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FYadvendra016%2FYadvendra016&psig=AOvVaw30PRUg3JqjY5xKdy5xoXqn&ust=1726052395475000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjupZrEuYgDFQAAAAAdAAAAABA2">
 <h1 align="center">👋, My name is Rushikesh Rathod</h1>
 
 # 💫 About Me:
