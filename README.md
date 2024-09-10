@@ -1,4 +1,4 @@
-<img alt="loading" weidth="1500" height="500" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
+<img alt="loading" weidth="1584" height="450" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 <h1 align="center">👋, My name is Rushikesh Rathod</h1>
 
 # 💫 About Me:
